@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ref_test"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/user/CLionProjects/ref_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/user/CLionProjects/ref_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/user/CLionProjects/ref_test/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ref_test">
+				<Option output="/Users/user/CLionProjects/ref_test/cmake-build-debug/ref_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 ref_test"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ref_test/fast">
+				<Option output="/Users/user/CLionProjects/ref_test/cmake-build-debug/ref_test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 ref_test/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/user/CLionProjects/ref_test/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/user/CLionProjects/ref_test/10_encapsulation.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/11_construction_test.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/12_construction_test2.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/13_construction_test3.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/14_delegated_constructor.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/15_class_and_const.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/16_static_member.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/17_arith_overloading.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/18_io_overloading.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/19_plus_minus_overloading.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/1_main.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/20_subscript_overloading.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/21_function_parenthesis_overloading.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/22_type_cast_overloading.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/23_copy_constructor_overloading.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/24_converting_constructor_overloading.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/25_fstream.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/26_deepcopy_shallowcopy.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/2_function_pointer.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/3_stack_heap.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/4_recursive_function.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/5_defensive_programming.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/6_assert_test.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/7_arguments_test.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/8_ellipsis_test.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/9_oop_test.cpp">
+			<Option target="ref_test"/>
+		</Unit>
+		<Unit filename="/Users/user/CLionProjects/ref_test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
