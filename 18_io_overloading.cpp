@@ -24,6 +24,12 @@ public:
         cout << m_x << " " << m_y << " " << m_z;
     }
 
+//    friend std::ostream& operator << (std::ostream &out, const Point &point) {
+//        out << point.m_x <<" " << point.m_y << " " << point.m_z;
+//        return out;
+//
+//    };
+
     friend std::ostream& operator << (std::ostream &out, const Point &point) {
         out << point.m_x << " " << point.m_y << " " << point.m_z;
         return out;
@@ -35,14 +41,16 @@ public:
     }
 };
 
-int main() {
+int main_18() {
 //    Point p1(0.0, 0.1, 0.2), p2(3.4, 1.5, 2.0);
     Point p1, p2;
 
+    cout<<"input p1 and p2:";
     cin >> p1 >> p2;
 //    p1.print();
     ofstream of("out.txt");
-    cout<<p1 << " ==>" << p2 <<endl;
+
+    cout << p1 << " ==>" << p2 <<endl;
     of << p1 << "==> " << p2 << endl;
 
     of.close();

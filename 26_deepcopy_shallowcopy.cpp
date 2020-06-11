@@ -8,6 +8,7 @@ using namespace std;
 
 int main_26() {
 
+    // shared_ptr
 
 
     return 0;

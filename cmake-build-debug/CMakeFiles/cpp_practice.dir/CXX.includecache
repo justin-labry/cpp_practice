@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/labry/CLionProjects/cpp_practice/27_smart_ptr.cpp
+iostream
+-
+Resource.h
+/Users/labry/CLionProjects/cpp_practice/Resource.h
+AutoPtr.h
+/Users/labry/CLionProjects/cpp_practice/AutoPtr.h
+
+/Users/labry/CLionProjects/cpp_practice/28_rvalue_reference.cpp
+iostream
+-
+
+/Users/labry/CLionProjects/cpp_practice/AutoPtr.h
+iostream
+-
+
+/Users/labry/CLionProjects/cpp_practice/Resource.h
+iostream
+-
+
