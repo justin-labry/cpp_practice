@@ -12,7 +12,7 @@ AutoPtr<Resource> generateResource() {
     return res;
 }
 
-int main_29() {
+int main() {
     using namespace std;
     streambuf* orig_buf = cout.rdbuf();
     //cout.rdbuf(NULL); //disconnnect cout rom buffer
@@ -21,7 +21,7 @@ int main_29() {
 
     {
         AutoPtr<Resource> main_res;
-//        main_res = generateResource();
+        main_res = generateResource();
     }
 
     cout.rdbuf(orig_buf);

@@ -14,35 +14,66 @@ public:
 public:
     AutoPtr(T *ptr = nullptr)
         : m_ptr(ptr) {
+        std::cout<< "AutoPtr default constructor " << std::endl;
 
     }
 
     ~AutoPtr() {
+        std::cout<< "AutoPtr destructor " << std::endl;
+
         if(m_ptr != nullptr) delete m_ptr;
     }
 
-    AutoPtr(AutoPtr &a) {
+    AutoPtr(AutoPtr& a) {
 
         std::cout<< "AutoPtr copy constructor " << std::endl;
 
-        m_ptr = a.m_ptr;
-        a.m_ptr = nullptr;
+//        m_ptr = a.m_ptr;
+//        a.m_ptr = nullptr;
 
         // deep copy
-//        m_ptr = new T;
-//        *m_ptr = *a.m_ptr;
+        m_ptr = new T;
+        *m_ptr = *a.m_ptr;
     }
 
-    AutoPtr& operator = (AutoPtr &a) {
+    AutoPtr& operator= (const AutoPtr& a) {
         std::cout<< "AutoPtr copy assignment " << std::endl;
 
         if(&a == this) { //prevent self-assignment
             return *this;
         }
 
-        delete m_ptr;
+        if(m_ptr != nullptr) delete m_ptr;
+
+        //deep copy
+        m_ptr = new T;
+        *m_ptr = *a.m_ptr;
+
+        return *this;
+    }
+
+//    AutoPtr(const AutoPtr& a) = delete;
+//    AutoPtr& operator=(const AutoPtr& a) = delete;
+
+    AutoPtr(AutoPtr&& a)
+        : m_ptr(a.m_ptr) {
+        a.m_ptr = nullptr; // really necessary?
+
+        std::cout << "AutoPtr move constructor " << std::endl;
+    }
+
+    AutoPtr& operator=(AutoPtr&& a) {
+        std::cout<< "AutoPtr move assignment " << std::endl;
+
+        if(&a == this)
+            return *this;
+
+        if(!m_ptr) delete m_ptr;
+
+        //shallow copy
         m_ptr = a.m_ptr;
-        a.m_ptr = nullptr;
+        a.m_ptr = nullptr; // really necessary?
+
         return *this;
     }
 
