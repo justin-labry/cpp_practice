@@ -2,6 +2,7 @@
 // Created by Justin Park on 2020/06/11.
 //
 
+#include <iomanip>
 #include "AutoPtr.h"
 #include "Resource.h"
 #include "Timer.h"
@@ -25,7 +26,7 @@ int main() {
     }
 
     cout.rdbuf(orig_buf);
-    cout << timer.elapsed() << endl;
+    cout <<fixed<<std::setprecision(10)<< timer.elapsed() << endl;
 
     return 0;
 }

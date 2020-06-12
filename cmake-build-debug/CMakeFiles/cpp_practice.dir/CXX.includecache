@@ -6,15 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/labry/CLionProjects/cpp_practice/27_smart_ptr.cpp
-iostream
--
-Resource.h
-/Users/labry/CLionProjects/cpp_practice/Resource.h
-AutoPtr.h
-/Users/labry/CLionProjects/cpp_practice/AutoPtr.h
-
 /Users/labry/CLionProjects/cpp_practice/29_move_constructor.cpp
+iomanip
+-
 AutoPtr.h
 /Users/labry/CLionProjects/cpp_practice/AutoPtr.h
 Resource.h
