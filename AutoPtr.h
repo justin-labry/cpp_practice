@@ -25,9 +25,12 @@ public:
 
         std::cout<< "AutoPtr copy constructor " << std::endl;
 
+        m_ptr = a.m_ptr;
+        a.m_ptr = nullptr;
+
         // deep copy
-        m_ptr = new T;
-        *m_ptr = *a.m_ptr;
+//        m_ptr = new T;
+//        *m_ptr = *a.m_ptr;
     }
 
     AutoPtr& operator = (AutoPtr &a) {

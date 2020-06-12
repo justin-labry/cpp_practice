@@ -28,4 +28,4 @@ add_executable(cpp_practice
     6_assert_test.cpp
     7_arguments_test.cpp
     8_ellipsis_test.cpp
-    9_oop_test.cpp 27_smart_ptr.cpp AutoPtr.h Resource.h 28_rvalue_reference.cpp 29_move_constructor.cpp)
+    9_oop_test.cpp 27_smart_ptr.cpp AutoPtr.h Resource.h 28_rvalue_reference.cpp 29_move_constructor.cpp Timer.h)

@@ -170,6 +170,9 @@
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Resource.h">
 			<Option target="cpp_practice"/>
 		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Timer.h">
+			<Option target="cpp_practice"/>
+		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

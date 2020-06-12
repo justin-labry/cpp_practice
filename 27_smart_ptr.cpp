@@ -16,7 +16,7 @@ void doSomething(AutoPtr<Resource> res) {
 }
 
 
-int main_27() {
+int main() {
     AutoPtr<Resource> res1(new Resource);
     AutoPtr<Resource> res2;
 
@@ -28,7 +28,7 @@ int main_27() {
     cout << res1.m_ptr << endl;
     cout << res2.m_ptr << endl;
 
-    doSomething(res1);
+//    doSomething(res1);
 
 
 }

@@ -10,7 +10,7 @@ int getResult() {
     return 100*100;
 }
 
-int main() {
+int main_28() {
     int x = 5;
     int y = getResult();
 

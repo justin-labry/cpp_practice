@@ -41,6 +41,11 @@ CMakeFiles/cpp_practice.dir/27_smart_ptr.cpp.o: ../Resource.h
 
 CMakeFiles/cpp_practice.dir/28_rvalue_reference.cpp.o: ../28_rvalue_reference.cpp
 
+CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o: ../29_move_constructor.cpp
+CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o: ../AutoPtr.h
+CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o: ../Resource.h
+CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o: ../Timer.h
+
 CMakeFiles/cpp_practice.dir/2_function_pointer.cpp.o: ../2_function_pointer.cpp
 
 CMakeFiles/cpp_practice.dir/3_stack_heap.cpp.o: ../3_stack_heap.cpp
