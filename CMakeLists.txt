@@ -28,4 +28,4 @@ add_executable(cpp_practice
     6_assert_test.cpp
     7_arguments_test.cpp
     8_ellipsis_test.cpp
-    9_oop_test.cpp 27_smart_ptr.cpp AutoPtr.h Resource.h 28_rvalue_reference.cpp 29_move_constructor.cpp Timer.h)
+    9_oop_test.cpp 27_smart_ptr.cpp AutoPtr.h Resource.h 28_rvalue_reference.cpp 29_move_constructor.cpp Timer.h 30_std_move.cpp 31_shared_ptr.cpp 32_weak_ptr.cpp 33_composition.cpp Monster.h Position2D.h 34_association.cpp Lecture.h Teacher.h Student.h 35_cooperation.cpp 36_dependencies.cpp 37_container.cpp 37_answer_code.cpp 38_inheritance.cpp Person.h 39_inheritance.cpp 40_derived_class.cpp 41_inheritance_access_specifiers.cpp 42_multiple_inheritance.cpp 43_poliy.cpp 1_function_pointers.cpp 44_abstract_class.cpp)

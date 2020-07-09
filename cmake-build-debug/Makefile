@@ -393,6 +393,33 @@ cpp_practice/fast:
 	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/19_plus_minus_overloading.cpp.s
 .PHONY : 19_plus_minus_overloading.cpp.s
 
+1_function_pointers.o: 1_function_pointers.cpp.o
+
+.PHONY : 1_function_pointers.o
+
+# target to build an object file
+1_function_pointers.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o
+.PHONY : 1_function_pointers.cpp.o
+
+1_function_pointers.i: 1_function_pointers.cpp.i
+
+.PHONY : 1_function_pointers.i
+
+# target to preprocess a source file
+1_function_pointers.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.i
+.PHONY : 1_function_pointers.cpp.i
+
+1_function_pointers.s: 1_function_pointers.cpp.s
+
+.PHONY : 1_function_pointers.s
+
+# target to generate assembly for a file
+1_function_pointers.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.s
+.PHONY : 1_function_pointers.cpp.s
+
 20_subscript_overloading.o: 20_subscript_overloading.cpp.o
 
 .PHONY : 20_subscript_overloading.o
@@ -690,6 +717,303 @@ cpp_practice/fast:
 	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/2_function_pointer.cpp.s
 .PHONY : 2_function_pointer.cpp.s
 
+30_std_move.o: 30_std_move.cpp.o
+
+.PHONY : 30_std_move.o
+
+# target to build an object file
+30_std_move.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/30_std_move.cpp.o
+.PHONY : 30_std_move.cpp.o
+
+30_std_move.i: 30_std_move.cpp.i
+
+.PHONY : 30_std_move.i
+
+# target to preprocess a source file
+30_std_move.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/30_std_move.cpp.i
+.PHONY : 30_std_move.cpp.i
+
+30_std_move.s: 30_std_move.cpp.s
+
+.PHONY : 30_std_move.s
+
+# target to generate assembly for a file
+30_std_move.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/30_std_move.cpp.s
+.PHONY : 30_std_move.cpp.s
+
+31_shared_ptr.o: 31_shared_ptr.cpp.o
+
+.PHONY : 31_shared_ptr.o
+
+# target to build an object file
+31_shared_ptr.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o
+.PHONY : 31_shared_ptr.cpp.o
+
+31_shared_ptr.i: 31_shared_ptr.cpp.i
+
+.PHONY : 31_shared_ptr.i
+
+# target to preprocess a source file
+31_shared_ptr.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.i
+.PHONY : 31_shared_ptr.cpp.i
+
+31_shared_ptr.s: 31_shared_ptr.cpp.s
+
+.PHONY : 31_shared_ptr.s
+
+# target to generate assembly for a file
+31_shared_ptr.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.s
+.PHONY : 31_shared_ptr.cpp.s
+
+32_weak_ptr.o: 32_weak_ptr.cpp.o
+
+.PHONY : 32_weak_ptr.o
+
+# target to build an object file
+32_weak_ptr.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o
+.PHONY : 32_weak_ptr.cpp.o
+
+32_weak_ptr.i: 32_weak_ptr.cpp.i
+
+.PHONY : 32_weak_ptr.i
+
+# target to preprocess a source file
+32_weak_ptr.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.i
+.PHONY : 32_weak_ptr.cpp.i
+
+32_weak_ptr.s: 32_weak_ptr.cpp.s
+
+.PHONY : 32_weak_ptr.s
+
+# target to generate assembly for a file
+32_weak_ptr.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.s
+.PHONY : 32_weak_ptr.cpp.s
+
+33_composition.o: 33_composition.cpp.o
+
+.PHONY : 33_composition.o
+
+# target to build an object file
+33_composition.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/33_composition.cpp.o
+.PHONY : 33_composition.cpp.o
+
+33_composition.i: 33_composition.cpp.i
+
+.PHONY : 33_composition.i
+
+# target to preprocess a source file
+33_composition.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/33_composition.cpp.i
+.PHONY : 33_composition.cpp.i
+
+33_composition.s: 33_composition.cpp.s
+
+.PHONY : 33_composition.s
+
+# target to generate assembly for a file
+33_composition.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/33_composition.cpp.s
+.PHONY : 33_composition.cpp.s
+
+34_association.o: 34_association.cpp.o
+
+.PHONY : 34_association.o
+
+# target to build an object file
+34_association.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/34_association.cpp.o
+.PHONY : 34_association.cpp.o
+
+34_association.i: 34_association.cpp.i
+
+.PHONY : 34_association.i
+
+# target to preprocess a source file
+34_association.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/34_association.cpp.i
+.PHONY : 34_association.cpp.i
+
+34_association.s: 34_association.cpp.s
+
+.PHONY : 34_association.s
+
+# target to generate assembly for a file
+34_association.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/34_association.cpp.s
+.PHONY : 34_association.cpp.s
+
+35_cooperation.o: 35_cooperation.cpp.o
+
+.PHONY : 35_cooperation.o
+
+# target to build an object file
+35_cooperation.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o
+.PHONY : 35_cooperation.cpp.o
+
+35_cooperation.i: 35_cooperation.cpp.i
+
+.PHONY : 35_cooperation.i
+
+# target to preprocess a source file
+35_cooperation.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/35_cooperation.cpp.i
+.PHONY : 35_cooperation.cpp.i
+
+35_cooperation.s: 35_cooperation.cpp.s
+
+.PHONY : 35_cooperation.s
+
+# target to generate assembly for a file
+35_cooperation.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/35_cooperation.cpp.s
+.PHONY : 35_cooperation.cpp.s
+
+36_dependencies.o: 36_dependencies.cpp.o
+
+.PHONY : 36_dependencies.o
+
+# target to build an object file
+36_dependencies.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o
+.PHONY : 36_dependencies.cpp.o
+
+36_dependencies.i: 36_dependencies.cpp.i
+
+.PHONY : 36_dependencies.i
+
+# target to preprocess a source file
+36_dependencies.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/36_dependencies.cpp.i
+.PHONY : 36_dependencies.cpp.i
+
+36_dependencies.s: 36_dependencies.cpp.s
+
+.PHONY : 36_dependencies.s
+
+# target to generate assembly for a file
+36_dependencies.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/36_dependencies.cpp.s
+.PHONY : 36_dependencies.cpp.s
+
+37_answer_code.o: 37_answer_code.cpp.o
+
+.PHONY : 37_answer_code.o
+
+# target to build an object file
+37_answer_code.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o
+.PHONY : 37_answer_code.cpp.o
+
+37_answer_code.i: 37_answer_code.cpp.i
+
+.PHONY : 37_answer_code.i
+
+# target to preprocess a source file
+37_answer_code.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/37_answer_code.cpp.i
+.PHONY : 37_answer_code.cpp.i
+
+37_answer_code.s: 37_answer_code.cpp.s
+
+.PHONY : 37_answer_code.s
+
+# target to generate assembly for a file
+37_answer_code.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/37_answer_code.cpp.s
+.PHONY : 37_answer_code.cpp.s
+
+37_container.o: 37_container.cpp.o
+
+.PHONY : 37_container.o
+
+# target to build an object file
+37_container.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/37_container.cpp.o
+.PHONY : 37_container.cpp.o
+
+37_container.i: 37_container.cpp.i
+
+.PHONY : 37_container.i
+
+# target to preprocess a source file
+37_container.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/37_container.cpp.i
+.PHONY : 37_container.cpp.i
+
+37_container.s: 37_container.cpp.s
+
+.PHONY : 37_container.s
+
+# target to generate assembly for a file
+37_container.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/37_container.cpp.s
+.PHONY : 37_container.cpp.s
+
+38_inheritance.o: 38_inheritance.cpp.o
+
+.PHONY : 38_inheritance.o
+
+# target to build an object file
+38_inheritance.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o
+.PHONY : 38_inheritance.cpp.o
+
+38_inheritance.i: 38_inheritance.cpp.i
+
+.PHONY : 38_inheritance.i
+
+# target to preprocess a source file
+38_inheritance.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/38_inheritance.cpp.i
+.PHONY : 38_inheritance.cpp.i
+
+38_inheritance.s: 38_inheritance.cpp.s
+
+.PHONY : 38_inheritance.s
+
+# target to generate assembly for a file
+38_inheritance.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/38_inheritance.cpp.s
+.PHONY : 38_inheritance.cpp.s
+
+39_inheritance.o: 39_inheritance.cpp.o
+
+.PHONY : 39_inheritance.o
+
+# target to build an object file
+39_inheritance.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o
+.PHONY : 39_inheritance.cpp.o
+
+39_inheritance.i: 39_inheritance.cpp.i
+
+.PHONY : 39_inheritance.i
+
+# target to preprocess a source file
+39_inheritance.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/39_inheritance.cpp.i
+.PHONY : 39_inheritance.cpp.i
+
+39_inheritance.s: 39_inheritance.cpp.s
+
+.PHONY : 39_inheritance.s
+
+# target to generate assembly for a file
+39_inheritance.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/39_inheritance.cpp.s
+.PHONY : 39_inheritance.cpp.s
+
 3_stack_heap.o: 3_stack_heap.cpp.o
 
 .PHONY : 3_stack_heap.o
@@ -716,6 +1040,141 @@ cpp_practice/fast:
 3_stack_heap.cpp.s:
 	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/3_stack_heap.cpp.s
 .PHONY : 3_stack_heap.cpp.s
+
+40_derived_class.o: 40_derived_class.cpp.o
+
+.PHONY : 40_derived_class.o
+
+# target to build an object file
+40_derived_class.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o
+.PHONY : 40_derived_class.cpp.o
+
+40_derived_class.i: 40_derived_class.cpp.i
+
+.PHONY : 40_derived_class.i
+
+# target to preprocess a source file
+40_derived_class.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/40_derived_class.cpp.i
+.PHONY : 40_derived_class.cpp.i
+
+40_derived_class.s: 40_derived_class.cpp.s
+
+.PHONY : 40_derived_class.s
+
+# target to generate assembly for a file
+40_derived_class.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/40_derived_class.cpp.s
+.PHONY : 40_derived_class.cpp.s
+
+41_inheritance_access_specifiers.o: 41_inheritance_access_specifiers.cpp.o
+
+.PHONY : 41_inheritance_access_specifiers.o
+
+# target to build an object file
+41_inheritance_access_specifiers.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o
+.PHONY : 41_inheritance_access_specifiers.cpp.o
+
+41_inheritance_access_specifiers.i: 41_inheritance_access_specifiers.cpp.i
+
+.PHONY : 41_inheritance_access_specifiers.i
+
+# target to preprocess a source file
+41_inheritance_access_specifiers.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.i
+.PHONY : 41_inheritance_access_specifiers.cpp.i
+
+41_inheritance_access_specifiers.s: 41_inheritance_access_specifiers.cpp.s
+
+.PHONY : 41_inheritance_access_specifiers.s
+
+# target to generate assembly for a file
+41_inheritance_access_specifiers.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.s
+.PHONY : 41_inheritance_access_specifiers.cpp.s
+
+42_multiple_inheritance.o: 42_multiple_inheritance.cpp.o
+
+.PHONY : 42_multiple_inheritance.o
+
+# target to build an object file
+42_multiple_inheritance.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o
+.PHONY : 42_multiple_inheritance.cpp.o
+
+42_multiple_inheritance.i: 42_multiple_inheritance.cpp.i
+
+.PHONY : 42_multiple_inheritance.i
+
+# target to preprocess a source file
+42_multiple_inheritance.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.i
+.PHONY : 42_multiple_inheritance.cpp.i
+
+42_multiple_inheritance.s: 42_multiple_inheritance.cpp.s
+
+.PHONY : 42_multiple_inheritance.s
+
+# target to generate assembly for a file
+42_multiple_inheritance.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.s
+.PHONY : 42_multiple_inheritance.cpp.s
+
+43_poliy.o: 43_poliy.cpp.o
+
+.PHONY : 43_poliy.o
+
+# target to build an object file
+43_poliy.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/43_poliy.cpp.o
+.PHONY : 43_poliy.cpp.o
+
+43_poliy.i: 43_poliy.cpp.i
+
+.PHONY : 43_poliy.i
+
+# target to preprocess a source file
+43_poliy.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/43_poliy.cpp.i
+.PHONY : 43_poliy.cpp.i
+
+43_poliy.s: 43_poliy.cpp.s
+
+.PHONY : 43_poliy.s
+
+# target to generate assembly for a file
+43_poliy.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/43_poliy.cpp.s
+.PHONY : 43_poliy.cpp.s
+
+44_abstract_class.o: 44_abstract_class.cpp.o
+
+.PHONY : 44_abstract_class.o
+
+# target to build an object file
+44_abstract_class.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o
+.PHONY : 44_abstract_class.cpp.o
+
+44_abstract_class.i: 44_abstract_class.cpp.i
+
+.PHONY : 44_abstract_class.i
+
+# target to preprocess a source file
+44_abstract_class.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.i
+.PHONY : 44_abstract_class.cpp.i
+
+44_abstract_class.s: 44_abstract_class.cpp.s
+
+.PHONY : 44_abstract_class.s
+
+# target to generate assembly for a file
+44_abstract_class.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.s
+.PHONY : 44_abstract_class.cpp.s
 
 4_recursive_function.o: 4_recursive_function.cpp.o
 
@@ -918,6 +1377,9 @@ help:
 	@echo "... 19_plus_minus_overloading.o"
 	@echo "... 19_plus_minus_overloading.i"
 	@echo "... 19_plus_minus_overloading.s"
+	@echo "... 1_function_pointers.o"
+	@echo "... 1_function_pointers.i"
+	@echo "... 1_function_pointers.s"
 	@echo "... 20_subscript_overloading.o"
 	@echo "... 20_subscript_overloading.i"
 	@echo "... 20_subscript_overloading.s"
@@ -951,9 +1413,57 @@ help:
 	@echo "... 2_function_pointer.o"
 	@echo "... 2_function_pointer.i"
 	@echo "... 2_function_pointer.s"
+	@echo "... 30_std_move.o"
+	@echo "... 30_std_move.i"
+	@echo "... 30_std_move.s"
+	@echo "... 31_shared_ptr.o"
+	@echo "... 31_shared_ptr.i"
+	@echo "... 31_shared_ptr.s"
+	@echo "... 32_weak_ptr.o"
+	@echo "... 32_weak_ptr.i"
+	@echo "... 32_weak_ptr.s"
+	@echo "... 33_composition.o"
+	@echo "... 33_composition.i"
+	@echo "... 33_composition.s"
+	@echo "... 34_association.o"
+	@echo "... 34_association.i"
+	@echo "... 34_association.s"
+	@echo "... 35_cooperation.o"
+	@echo "... 35_cooperation.i"
+	@echo "... 35_cooperation.s"
+	@echo "... 36_dependencies.o"
+	@echo "... 36_dependencies.i"
+	@echo "... 36_dependencies.s"
+	@echo "... 37_answer_code.o"
+	@echo "... 37_answer_code.i"
+	@echo "... 37_answer_code.s"
+	@echo "... 37_container.o"
+	@echo "... 37_container.i"
+	@echo "... 37_container.s"
+	@echo "... 38_inheritance.o"
+	@echo "... 38_inheritance.i"
+	@echo "... 38_inheritance.s"
+	@echo "... 39_inheritance.o"
+	@echo "... 39_inheritance.i"
+	@echo "... 39_inheritance.s"
 	@echo "... 3_stack_heap.o"
 	@echo "... 3_stack_heap.i"
 	@echo "... 3_stack_heap.s"
+	@echo "... 40_derived_class.o"
+	@echo "... 40_derived_class.i"
+	@echo "... 40_derived_class.s"
+	@echo "... 41_inheritance_access_specifiers.o"
+	@echo "... 41_inheritance_access_specifiers.i"
+	@echo "... 41_inheritance_access_specifiers.s"
+	@echo "... 42_multiple_inheritance.o"
+	@echo "... 42_multiple_inheritance.i"
+	@echo "... 42_multiple_inheritance.s"
+	@echo "... 43_poliy.o"
+	@echo "... 43_poliy.i"
+	@echo "... 43_poliy.s"
+	@echo "... 44_abstract_class.o"
+	@echo "... 44_abstract_class.i"
+	@echo "... 44_abstract_class.s"
 	@echo "... 4_recursive_function.o"
 	@echo "... 4_recursive_function.i"
 	@echo "... 4_recursive_function.s"

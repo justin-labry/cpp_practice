@@ -6,33 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/labry/CLionProjects/cpp_practice/29_move_constructor.cpp
-iomanip
--
-AutoPtr.h
-/Users/labry/CLionProjects/cpp_practice/AutoPtr.h
-Resource.h
-/Users/labry/CLionProjects/cpp_practice/Resource.h
-Timer.h
-/Users/labry/CLionProjects/cpp_practice/Timer.h
-
-/Users/labry/CLionProjects/cpp_practice/AutoPtr.h
+/Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp
 iostream
--
-
-/Users/labry/CLionProjects/cpp_practice/Resource.h
-iostream
--
-
-/Users/labry/CLionProjects/cpp_practice/Timer.h
-iostream
--
-chrono
--
-algorithm
--
-random
--
-vector
 -
 

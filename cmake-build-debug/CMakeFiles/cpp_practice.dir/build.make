@@ -421,6 +421,227 @@ CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/29_move_constructor.cpp -o CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.s
 
+CMakeFiles/cpp_practice.dir/30_std_move.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/30_std_move.cpp.o: ../30_std_move.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/cpp_practice.dir/30_std_move.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/30_std_move.cpp.o -c /Users/labry/CLionProjects/cpp_practice/30_std_move.cpp
+
+CMakeFiles/cpp_practice.dir/30_std_move.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/30_std_move.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/30_std_move.cpp > CMakeFiles/cpp_practice.dir/30_std_move.cpp.i
+
+CMakeFiles/cpp_practice.dir/30_std_move.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/30_std_move.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/30_std_move.cpp -o CMakeFiles/cpp_practice.dir/30_std_move.cpp.s
+
+CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o: ../31_shared_ptr.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o -c /Users/labry/CLionProjects/cpp_practice/31_shared_ptr.cpp
+
+CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/31_shared_ptr.cpp > CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.i
+
+CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/31_shared_ptr.cpp -o CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.s
+
+CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o: ../32_weak_ptr.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o -c /Users/labry/CLionProjects/cpp_practice/32_weak_ptr.cpp
+
+CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/32_weak_ptr.cpp > CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.i
+
+CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/32_weak_ptr.cpp -o CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.s
+
+CMakeFiles/cpp_practice.dir/33_composition.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/33_composition.cpp.o: ../33_composition.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/cpp_practice.dir/33_composition.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/33_composition.cpp.o -c /Users/labry/CLionProjects/cpp_practice/33_composition.cpp
+
+CMakeFiles/cpp_practice.dir/33_composition.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/33_composition.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/33_composition.cpp > CMakeFiles/cpp_practice.dir/33_composition.cpp.i
+
+CMakeFiles/cpp_practice.dir/33_composition.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/33_composition.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/33_composition.cpp -o CMakeFiles/cpp_practice.dir/33_composition.cpp.s
+
+CMakeFiles/cpp_practice.dir/34_association.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/34_association.cpp.o: ../34_association.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/cpp_practice.dir/34_association.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/34_association.cpp.o -c /Users/labry/CLionProjects/cpp_practice/34_association.cpp
+
+CMakeFiles/cpp_practice.dir/34_association.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/34_association.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/34_association.cpp > CMakeFiles/cpp_practice.dir/34_association.cpp.i
+
+CMakeFiles/cpp_practice.dir/34_association.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/34_association.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/34_association.cpp -o CMakeFiles/cpp_practice.dir/34_association.cpp.s
+
+CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o: ../35_cooperation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o -c /Users/labry/CLionProjects/cpp_practice/35_cooperation.cpp
+
+CMakeFiles/cpp_practice.dir/35_cooperation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/35_cooperation.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/35_cooperation.cpp > CMakeFiles/cpp_practice.dir/35_cooperation.cpp.i
+
+CMakeFiles/cpp_practice.dir/35_cooperation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/35_cooperation.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/35_cooperation.cpp -o CMakeFiles/cpp_practice.dir/35_cooperation.cpp.s
+
+CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o: ../36_dependencies.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o -c /Users/labry/CLionProjects/cpp_practice/36_dependencies.cpp
+
+CMakeFiles/cpp_practice.dir/36_dependencies.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/36_dependencies.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/36_dependencies.cpp > CMakeFiles/cpp_practice.dir/36_dependencies.cpp.i
+
+CMakeFiles/cpp_practice.dir/36_dependencies.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/36_dependencies.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/36_dependencies.cpp -o CMakeFiles/cpp_practice.dir/36_dependencies.cpp.s
+
+CMakeFiles/cpp_practice.dir/37_container.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/37_container.cpp.o: ../37_container.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/cpp_practice.dir/37_container.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/37_container.cpp.o -c /Users/labry/CLionProjects/cpp_practice/37_container.cpp
+
+CMakeFiles/cpp_practice.dir/37_container.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/37_container.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/37_container.cpp > CMakeFiles/cpp_practice.dir/37_container.cpp.i
+
+CMakeFiles/cpp_practice.dir/37_container.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/37_container.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/37_container.cpp -o CMakeFiles/cpp_practice.dir/37_container.cpp.s
+
+CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o: ../37_answer_code.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o -c /Users/labry/CLionProjects/cpp_practice/37_answer_code.cpp
+
+CMakeFiles/cpp_practice.dir/37_answer_code.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/37_answer_code.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/37_answer_code.cpp > CMakeFiles/cpp_practice.dir/37_answer_code.cpp.i
+
+CMakeFiles/cpp_practice.dir/37_answer_code.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/37_answer_code.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/37_answer_code.cpp -o CMakeFiles/cpp_practice.dir/37_answer_code.cpp.s
+
+CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o: ../38_inheritance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o -c /Users/labry/CLionProjects/cpp_practice/38_inheritance.cpp
+
+CMakeFiles/cpp_practice.dir/38_inheritance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/38_inheritance.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/38_inheritance.cpp > CMakeFiles/cpp_practice.dir/38_inheritance.cpp.i
+
+CMakeFiles/cpp_practice.dir/38_inheritance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/38_inheritance.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/38_inheritance.cpp -o CMakeFiles/cpp_practice.dir/38_inheritance.cpp.s
+
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o: ../39_inheritance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o -c /Users/labry/CLionProjects/cpp_practice/39_inheritance.cpp
+
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/39_inheritance.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/39_inheritance.cpp > CMakeFiles/cpp_practice.dir/39_inheritance.cpp.i
+
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/39_inheritance.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/39_inheritance.cpp -o CMakeFiles/cpp_practice.dir/39_inheritance.cpp.s
+
+CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o: ../40_derived_class.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o -c /Users/labry/CLionProjects/cpp_practice/40_derived_class.cpp
+
+CMakeFiles/cpp_practice.dir/40_derived_class.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/40_derived_class.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/40_derived_class.cpp > CMakeFiles/cpp_practice.dir/40_derived_class.cpp.i
+
+CMakeFiles/cpp_practice.dir/40_derived_class.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/40_derived_class.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/40_derived_class.cpp -o CMakeFiles/cpp_practice.dir/40_derived_class.cpp.s
+
+CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o: ../41_inheritance_access_specifiers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o -c /Users/labry/CLionProjects/cpp_practice/41_inheritance_access_specifiers.cpp
+
+CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/41_inheritance_access_specifiers.cpp > CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.i
+
+CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/41_inheritance_access_specifiers.cpp -o CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.s
+
+CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o: ../42_multiple_inheritance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o -c /Users/labry/CLionProjects/cpp_practice/42_multiple_inheritance.cpp
+
+CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/42_multiple_inheritance.cpp > CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.i
+
+CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/42_multiple_inheritance.cpp -o CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.s
+
+CMakeFiles/cpp_practice.dir/43_poliy.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/43_poliy.cpp.o: ../43_poliy.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/cpp_practice.dir/43_poliy.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/43_poliy.cpp.o -c /Users/labry/CLionProjects/cpp_practice/43_poliy.cpp
+
+CMakeFiles/cpp_practice.dir/43_poliy.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/43_poliy.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/43_poliy.cpp > CMakeFiles/cpp_practice.dir/43_poliy.cpp.i
+
+CMakeFiles/cpp_practice.dir/43_poliy.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/43_poliy.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/43_poliy.cpp -o CMakeFiles/cpp_practice.dir/43_poliy.cpp.s
+
+CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o: ../1_function_pointers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o -c /Users/labry/CLionProjects/cpp_practice/1_function_pointers.cpp
+
+CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/1_function_pointers.cpp > CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.i
+
+CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/1_function_pointers.cpp -o CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.s
+
+CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o: ../44_abstract_class.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o -c /Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp
+
+CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp > CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.i
+
+CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp -o CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.s
+
 # Object files for target cpp_practice
 cpp_practice_OBJECTS = \
 "CMakeFiles/cpp_practice.dir/10_encapsulation.cpp.o" \
@@ -450,7 +671,24 @@ cpp_practice_OBJECTS = \
 "CMakeFiles/cpp_practice.dir/9_oop_test.cpp.o" \
 "CMakeFiles/cpp_practice.dir/27_smart_ptr.cpp.o" \
 "CMakeFiles/cpp_practice.dir/28_rvalue_reference.cpp.o" \
-"CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o"
+"CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o" \
+"CMakeFiles/cpp_practice.dir/30_std_move.cpp.o" \
+"CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o" \
+"CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o" \
+"CMakeFiles/cpp_practice.dir/33_composition.cpp.o" \
+"CMakeFiles/cpp_practice.dir/34_association.cpp.o" \
+"CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o" \
+"CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o" \
+"CMakeFiles/cpp_practice.dir/37_container.cpp.o" \
+"CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o" \
+"CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o" \
+"CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o" \
+"CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o" \
+"CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o" \
+"CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o" \
+"CMakeFiles/cpp_practice.dir/43_poliy.cpp.o" \
+"CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o" \
+"CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o"
 
 # External object files for target cpp_practice
 cpp_practice_EXTERNAL_OBJECTS =
@@ -483,9 +721,26 @@ cpp_practice: CMakeFiles/cpp_practice.dir/9_oop_test.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/27_smart_ptr.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/28_rvalue_reference.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/30_std_move.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/33_composition.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/34_association.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/37_container.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/43_poliy.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/build.make
 cpp_practice: CMakeFiles/cpp_practice.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Linking CXX executable cpp_practice"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking CXX executable cpp_practice"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_practice.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

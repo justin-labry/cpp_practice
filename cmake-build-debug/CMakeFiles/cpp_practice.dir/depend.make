@@ -21,6 +21,8 @@ CMakeFiles/cpp_practice.dir/18_io_overloading.cpp.o: ../18_io_overloading.cpp
 
 CMakeFiles/cpp_practice.dir/19_plus_minus_overloading.cpp.o: ../19_plus_minus_overloading.cpp
 
+CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o: ../1_function_pointers.cpp
+
 CMakeFiles/cpp_practice.dir/20_subscript_overloading.cpp.o: ../20_subscript_overloading.cpp
 
 CMakeFiles/cpp_practice.dir/21_function_parenthesis_overloading.cpp.o: ../21_function_parenthesis_overloading.cpp
@@ -48,7 +50,52 @@ CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o: ../Timer.h
 
 CMakeFiles/cpp_practice.dir/2_function_pointer.cpp.o: ../2_function_pointer.cpp
 
+CMakeFiles/cpp_practice.dir/30_std_move.cpp.o: ../30_std_move.cpp
+CMakeFiles/cpp_practice.dir/30_std_move.cpp.o: ../Resource.h
+CMakeFiles/cpp_practice.dir/30_std_move.cpp.o: ../Timer.h
+
+CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o: ../31_shared_ptr.cpp
+CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o: ../Resource.h
+
+CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o: ../32_weak_ptr.cpp
+
+CMakeFiles/cpp_practice.dir/33_composition.cpp.o: ../33_composition.cpp
+CMakeFiles/cpp_practice.dir/33_composition.cpp.o: ../Monster.h
+CMakeFiles/cpp_practice.dir/33_composition.cpp.o: ../Position2D.h
+
+CMakeFiles/cpp_practice.dir/34_association.cpp.o: ../34_association.cpp
+CMakeFiles/cpp_practice.dir/34_association.cpp.o: ../Lecture.h
+CMakeFiles/cpp_practice.dir/34_association.cpp.o: ../Person.h
+CMakeFiles/cpp_practice.dir/34_association.cpp.o: ../Student.h
+CMakeFiles/cpp_practice.dir/34_association.cpp.o: ../Teacher.h
+
+CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o: ../35_cooperation.cpp
+
+CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o: ../36_dependencies.cpp
+CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o: ../timer.h
+
+CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o: ../37_answer_code.cpp
+
+CMakeFiles/cpp_practice.dir/37_container.cpp.o: ../37_container.cpp
+
+CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o: ../38_inheritance.cpp
+
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o: ../39_inheritance.cpp
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o: ../Person.h
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o: ../Student.h
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o: ../Teacher.h
+
 CMakeFiles/cpp_practice.dir/3_stack_heap.cpp.o: ../3_stack_heap.cpp
+
+CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o: ../40_derived_class.cpp
+
+CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o: ../41_inheritance_access_specifiers.cpp
+
+CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o: ../42_multiple_inheritance.cpp
+
+CMakeFiles/cpp_practice.dir/43_poliy.cpp.o: ../43_poliy.cpp
+
+CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o: ../44_abstract_class.cpp
 
 CMakeFiles/cpp_practice.dir/4_recursive_function.cpp.o: ../4_recursive_function.cpp
 

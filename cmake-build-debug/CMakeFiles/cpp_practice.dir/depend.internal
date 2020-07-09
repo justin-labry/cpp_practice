@@ -21,6 +21,8 @@ CMakeFiles/cpp_practice.dir/18_io_overloading.cpp.o
  /Users/labry/CLionProjects/cpp_practice/18_io_overloading.cpp
 CMakeFiles/cpp_practice.dir/19_plus_minus_overloading.cpp.o
  /Users/labry/CLionProjects/cpp_practice/19_plus_minus_overloading.cpp
+CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/1_function_pointers.cpp
 CMakeFiles/cpp_practice.dir/20_subscript_overloading.cpp.o
  /Users/labry/CLionProjects/cpp_practice/20_subscript_overloading.cpp
 CMakeFiles/cpp_practice.dir/21_function_parenthesis_overloading.cpp.o
@@ -48,8 +50,53 @@ CMakeFiles/cpp_practice.dir/29_move_constructor.cpp.o
  /Users/labry/CLionProjects/cpp_practice/Timer.h
 CMakeFiles/cpp_practice.dir/2_function_pointer.cpp.o
  /Users/labry/CLionProjects/cpp_practice/2_function_pointer.cpp
+CMakeFiles/cpp_practice.dir/30_std_move.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/30_std_move.cpp
+ /Users/labry/CLionProjects/cpp_practice/Resource.h
+ /Users/labry/CLionProjects/cpp_practice/Timer.h
+CMakeFiles/cpp_practice.dir/31_shared_ptr.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/31_shared_ptr.cpp
+ /Users/labry/CLionProjects/cpp_practice/Resource.h
+CMakeFiles/cpp_practice.dir/32_weak_ptr.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/32_weak_ptr.cpp
+CMakeFiles/cpp_practice.dir/33_composition.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/33_composition.cpp
+ /Users/labry/CLionProjects/cpp_practice/Monster.h
+ /Users/labry/CLionProjects/cpp_practice/Position2D.h
+CMakeFiles/cpp_practice.dir/34_association.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/34_association.cpp
+ /Users/labry/CLionProjects/cpp_practice/Lecture.h
+ /Users/labry/CLionProjects/cpp_practice/Person.h
+ /Users/labry/CLionProjects/cpp_practice/Student.h
+ /Users/labry/CLionProjects/cpp_practice/Teacher.h
+CMakeFiles/cpp_practice.dir/35_cooperation.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/35_cooperation.cpp
+CMakeFiles/cpp_practice.dir/36_dependencies.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/36_dependencies.cpp
+ /Users/labry/CLionProjects/cpp_practice/timer.h
+CMakeFiles/cpp_practice.dir/37_answer_code.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/37_answer_code.cpp
+CMakeFiles/cpp_practice.dir/37_container.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/37_container.cpp
+CMakeFiles/cpp_practice.dir/38_inheritance.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/38_inheritance.cpp
+CMakeFiles/cpp_practice.dir/39_inheritance.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/39_inheritance.cpp
+ /Users/labry/CLionProjects/cpp_practice/Person.h
+ /Users/labry/CLionProjects/cpp_practice/Student.h
+ /Users/labry/CLionProjects/cpp_practice/Teacher.h
 CMakeFiles/cpp_practice.dir/3_stack_heap.cpp.o
  /Users/labry/CLionProjects/cpp_practice/3_stack_heap.cpp
+CMakeFiles/cpp_practice.dir/40_derived_class.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/40_derived_class.cpp
+CMakeFiles/cpp_practice.dir/41_inheritance_access_specifiers.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/41_inheritance_access_specifiers.cpp
+CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/42_multiple_inheritance.cpp
+CMakeFiles/cpp_practice.dir/43_poliy.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/43_poliy.cpp
+CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o
+ /Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp
 CMakeFiles/cpp_practice.dir/4_recursive_function.cpp.o
  /Users/labry/CLionProjects/cpp_practice/4_recursive_function.cpp
 CMakeFiles/cpp_practice.dir/5_defensive_programming.cpp.o

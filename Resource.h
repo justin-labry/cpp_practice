@@ -13,7 +13,7 @@ public:
     unsigned int m_length = 0;
 public:
     Resource() {
-        std::cout<< "Resource constructed" << std::endl;
+        std::cout<< "Resource default constructed" << std::endl;
     }
     Resource(unsigned length) {
         std::cout<< "Resource Length constructed" << std::endl;
@@ -57,6 +57,11 @@ public:
             std::cout << m_data[i] << " ";
         }
         std::cout << std::endl;
+    }
+
+    void setAll(const int& v) {
+        for (unsigned i = 0; i < m_length; ++i)
+            m_data[i] = v;
     }
 
 };

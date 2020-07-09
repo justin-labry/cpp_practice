@@ -110,6 +110,9 @@
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/19_plus_minus_overloading.cpp">
 			<Option target="cpp_practice"/>
 		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/1_function_pointers.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/20_subscript_overloading.cpp">
 			<Option target="cpp_practice"/>
 		</Unit>
@@ -143,7 +146,55 @@
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/2_function_pointer.cpp">
 			<Option target="cpp_practice"/>
 		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/30_std_move.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/31_shared_ptr.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/32_weak_ptr.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/33_composition.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/34_association.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/35_cooperation.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/36_dependencies.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/37_answer_code.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/37_container.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/38_inheritance.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/39_inheritance.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/3_stack_heap.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/40_derived_class.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/41_inheritance_access_specifiers.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/42_multiple_inheritance.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/43_poliy.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp">
 			<Option target="cpp_practice"/>
 		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/4_recursive_function.cpp">
@@ -167,7 +218,25 @@
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/AutoPtr.h">
 			<Option target="cpp_practice"/>
 		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Lecture.h">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Monster.h">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Person.h">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Position2D.h">
+			<Option target="cpp_practice"/>
+		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Resource.h">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Student.h">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Teacher.h">
 			<Option target="cpp_practice"/>
 		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Timer.h">

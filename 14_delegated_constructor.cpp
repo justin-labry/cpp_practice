@@ -5,21 +5,21 @@
 
 using namespace std;
 
-class Student {
+class Student14 {
 
 private:
     int     m_id;
     string  m_name;
 
 public:
-    Student(const string& name_in)
+    Student14(const string& name_in)
 //        :m_id(0), m_name(name_in)
     //:Student(0, name_in)
     {
         init(0, name_in);
     }
 
-    Student(const int& id_in, const string& name_in)
+    Student14(const int& id_in, const string& name_in)
      //   :init(id_in, name_in)
     {
         init(id_in, name_in);
@@ -36,10 +36,10 @@ public:
 };
 
 int main14() {
-    Student st1(0, "Jack Jack");
+    Student14 st1(0, "Jack Jack");
     st1.print();
 
-    Student st2(1, "Justin Park");
+    Student14 st2(1, "Justin Park");
     st2.print();
 
 

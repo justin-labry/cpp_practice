@@ -9,7 +9,7 @@
 template<class T>
 class AutoPtr {
 public:
-    T *m_ptr = nullptr;
+    T *m_ptr;
 
 public:
     AutoPtr(T *ptr = nullptr)
