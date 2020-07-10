@@ -197,6 +197,12 @@
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp">
 			<Option target="cpp_practice"/>
 		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/45_diamond_inheritance.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/46_function_template.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/4_recursive_function.cpp">
 			<Option target="cpp_practice"/>
 		</Unit>
@@ -216,6 +222,9 @@
 			<Option target="cpp_practice"/>
 		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/AutoPtr.h">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Cents.h">
 			<Option target="cpp_practice"/>
 		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Lecture.h">

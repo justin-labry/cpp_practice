@@ -1176,6 +1176,60 @@ cpp_practice/fast:
 	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.s
 .PHONY : 44_abstract_class.cpp.s
 
+45_diamond_inheritance.o: 45_diamond_inheritance.cpp.o
+
+.PHONY : 45_diamond_inheritance.o
+
+# target to build an object file
+45_diamond_inheritance.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o
+.PHONY : 45_diamond_inheritance.cpp.o
+
+45_diamond_inheritance.i: 45_diamond_inheritance.cpp.i
+
+.PHONY : 45_diamond_inheritance.i
+
+# target to preprocess a source file
+45_diamond_inheritance.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.i
+.PHONY : 45_diamond_inheritance.cpp.i
+
+45_diamond_inheritance.s: 45_diamond_inheritance.cpp.s
+
+.PHONY : 45_diamond_inheritance.s
+
+# target to generate assembly for a file
+45_diamond_inheritance.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.s
+.PHONY : 45_diamond_inheritance.cpp.s
+
+46_function_template.o: 46_function_template.cpp.o
+
+.PHONY : 46_function_template.o
+
+# target to build an object file
+46_function_template.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/46_function_template.cpp.o
+.PHONY : 46_function_template.cpp.o
+
+46_function_template.i: 46_function_template.cpp.i
+
+.PHONY : 46_function_template.i
+
+# target to preprocess a source file
+46_function_template.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/46_function_template.cpp.i
+.PHONY : 46_function_template.cpp.i
+
+46_function_template.s: 46_function_template.cpp.s
+
+.PHONY : 46_function_template.s
+
+# target to generate assembly for a file
+46_function_template.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/46_function_template.cpp.s
+.PHONY : 46_function_template.cpp.s
+
 4_recursive_function.o: 4_recursive_function.cpp.o
 
 .PHONY : 4_recursive_function.o
@@ -1464,6 +1518,12 @@ help:
 	@echo "... 44_abstract_class.o"
 	@echo "... 44_abstract_class.i"
 	@echo "... 44_abstract_class.s"
+	@echo "... 45_diamond_inheritance.o"
+	@echo "... 45_diamond_inheritance.i"
+	@echo "... 45_diamond_inheritance.s"
+	@echo "... 46_function_template.o"
+	@echo "... 46_function_template.i"
+	@echo "... 46_function_template.s"
 	@echo "... 4_recursive_function.o"
 	@echo "... 4_recursive_function.i"
 	@echo "... 4_recursive_function.s"

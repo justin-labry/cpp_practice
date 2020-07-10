@@ -642,6 +642,32 @@ CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp -o CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.s
 
+CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o: ../45_diamond_inheritance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o -c /Users/labry/CLionProjects/cpp_practice/45_diamond_inheritance.cpp
+
+CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/45_diamond_inheritance.cpp > CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.i
+
+CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/45_diamond_inheritance.cpp -o CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.s
+
+CMakeFiles/cpp_practice.dir/46_function_template.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/46_function_template.cpp.o: ../46_function_template.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/cpp_practice.dir/46_function_template.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/46_function_template.cpp.o -c /Users/labry/CLionProjects/cpp_practice/46_function_template.cpp
+
+CMakeFiles/cpp_practice.dir/46_function_template.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/46_function_template.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/46_function_template.cpp > CMakeFiles/cpp_practice.dir/46_function_template.cpp.i
+
+CMakeFiles/cpp_practice.dir/46_function_template.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/46_function_template.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/46_function_template.cpp -o CMakeFiles/cpp_practice.dir/46_function_template.cpp.s
+
 # Object files for target cpp_practice
 cpp_practice_OBJECTS = \
 "CMakeFiles/cpp_practice.dir/10_encapsulation.cpp.o" \
@@ -688,7 +714,9 @@ cpp_practice_OBJECTS = \
 "CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o" \
 "CMakeFiles/cpp_practice.dir/43_poliy.cpp.o" \
 "CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o" \
-"CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o"
+"CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o" \
+"CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o" \
+"CMakeFiles/cpp_practice.dir/46_function_template.cpp.o"
 
 # External object files for target cpp_practice
 cpp_practice_EXTERNAL_OBJECTS =
@@ -738,9 +766,11 @@ cpp_practice: CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/43_poliy.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/1_function_pointers.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/46_function_template.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/build.make
 cpp_practice: CMakeFiles/cpp_practice.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Linking CXX executable cpp_practice"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Linking CXX executable cpp_practice"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_practice.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

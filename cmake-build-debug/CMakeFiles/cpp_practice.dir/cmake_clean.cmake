@@ -38,6 +38,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o"
   "CMakeFiles/cpp_practice.dir/43_poliy.cpp.o"
   "CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o"
+  "CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o"
+  "CMakeFiles/cpp_practice.dir/46_function_template.cpp.o"
   "CMakeFiles/cpp_practice.dir/4_recursive_function.cpp.o"
   "CMakeFiles/cpp_practice.dir/5_defensive_programming.cpp.o"
   "CMakeFiles/cpp_practice.dir/6_assert_test.cpp.o"

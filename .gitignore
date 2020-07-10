@@ -1,4 +1,4 @@
-cmake-build-debuga/*
+cmake-build-debug/**
 # Prerequisites
 *.d
 

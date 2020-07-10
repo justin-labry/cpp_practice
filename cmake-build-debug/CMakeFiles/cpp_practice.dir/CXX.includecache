@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp
+/Users/labry/CLionProjects/cpp_practice/46_function_template.cpp
+iostream
+-
+Cents.h
+/Users/labry/CLionProjects/cpp_practice/Cents.h
+
+/Users/labry/CLionProjects/cpp_practice/Cents.h
 iostream
 -
 

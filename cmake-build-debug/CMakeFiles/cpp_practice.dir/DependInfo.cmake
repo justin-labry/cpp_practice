@@ -43,6 +43,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/labry/CLionProjects/cpp_practice/42_multiple_inheritance.cpp" "/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir/42_multiple_inheritance.cpp.o"
   "/Users/labry/CLionProjects/cpp_practice/43_poliy.cpp" "/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir/43_poliy.cpp.o"
   "/Users/labry/CLionProjects/cpp_practice/44_abstract_class.cpp" "/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir/44_abstract_class.cpp.o"
+  "/Users/labry/CLionProjects/cpp_practice/45_diamond_inheritance.cpp" "/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir/45_diamond_inheritance.cpp.o"
+  "/Users/labry/CLionProjects/cpp_practice/46_function_template.cpp" "/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir/46_function_template.cpp.o"
   "/Users/labry/CLionProjects/cpp_practice/4_recursive_function.cpp" "/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir/4_recursive_function.cpp.o"
   "/Users/labry/CLionProjects/cpp_practice/5_defensive_programming.cpp" "/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir/5_defensive_programming.cpp.o"
   "/Users/labry/CLionProjects/cpp_practice/6_assert_test.cpp" "/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir/6_assert_test.cpp.o"

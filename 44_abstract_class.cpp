@@ -33,7 +33,7 @@ void doSomething(IErrorLog & log) {
 }
 
 
-int main() {
+int main_44() {
 
     FileErrorLog file_log;
     ConsoleErrorLog console_Log;
