@@ -215,6 +215,15 @@
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/4_recursive_function.cpp">
 			<Option target="cpp_practice"/>
 		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/50_partial_specialization.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/51_pointer_specialization.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/52_double_templatization.cpp">
+			<Option target="cpp_practice"/>
+		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/5_defensive_programming.cpp">
 			<Option target="cpp_practice"/>
 		</Unit>
@@ -261,6 +270,9 @@
 			<Option target="cpp_practice"/>
 		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Storage.h">
+			<Option target="cpp_practice"/>
+		</Unit>
+		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Storage8.h">
 			<Option target="cpp_practice"/>
 		</Unit>
 		<Unit filename="/Users/labry/CLionProjects/cpp_practice/Student.h">

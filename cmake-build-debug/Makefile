@@ -1338,6 +1338,87 @@ cpp_practice/fast:
 	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/4_recursive_function.cpp.s
 .PHONY : 4_recursive_function.cpp.s
 
+50_partial_specialization.o: 50_partial_specialization.cpp.o
+
+.PHONY : 50_partial_specialization.o
+
+# target to build an object file
+50_partial_specialization.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.o
+.PHONY : 50_partial_specialization.cpp.o
+
+50_partial_specialization.i: 50_partial_specialization.cpp.i
+
+.PHONY : 50_partial_specialization.i
+
+# target to preprocess a source file
+50_partial_specialization.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.i
+.PHONY : 50_partial_specialization.cpp.i
+
+50_partial_specialization.s: 50_partial_specialization.cpp.s
+
+.PHONY : 50_partial_specialization.s
+
+# target to generate assembly for a file
+50_partial_specialization.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.s
+.PHONY : 50_partial_specialization.cpp.s
+
+51_pointer_specialization.o: 51_pointer_specialization.cpp.o
+
+.PHONY : 51_pointer_specialization.o
+
+# target to build an object file
+51_pointer_specialization.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.o
+.PHONY : 51_pointer_specialization.cpp.o
+
+51_pointer_specialization.i: 51_pointer_specialization.cpp.i
+
+.PHONY : 51_pointer_specialization.i
+
+# target to preprocess a source file
+51_pointer_specialization.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.i
+.PHONY : 51_pointer_specialization.cpp.i
+
+51_pointer_specialization.s: 51_pointer_specialization.cpp.s
+
+.PHONY : 51_pointer_specialization.s
+
+# target to generate assembly for a file
+51_pointer_specialization.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.s
+.PHONY : 51_pointer_specialization.cpp.s
+
+52_double_templatization.o: 52_double_templatization.cpp.o
+
+.PHONY : 52_double_templatization.o
+
+# target to build an object file
+52_double_templatization.cpp.o:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.o
+.PHONY : 52_double_templatization.cpp.o
+
+52_double_templatization.i: 52_double_templatization.cpp.i
+
+.PHONY : 52_double_templatization.i
+
+# target to preprocess a source file
+52_double_templatization.cpp.i:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.i
+.PHONY : 52_double_templatization.cpp.i
+
+52_double_templatization.s: 52_double_templatization.cpp.s
+
+.PHONY : 52_double_templatization.s
+
+# target to generate assembly for a file
+52_double_templatization.cpp.s:
+	$(MAKE) -f CMakeFiles/cpp_practice.dir/build.make CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.s
+.PHONY : 52_double_templatization.cpp.s
+
 5_defensive_programming.o: 5_defensive_programming.cpp.o
 
 .PHONY : 5_defensive_programming.o
@@ -1698,6 +1779,15 @@ help:
 	@echo "... 4_recursive_function.o"
 	@echo "... 4_recursive_function.i"
 	@echo "... 4_recursive_function.s"
+	@echo "... 50_partial_specialization.o"
+	@echo "... 50_partial_specialization.i"
+	@echo "... 50_partial_specialization.s"
+	@echo "... 51_pointer_specialization.o"
+	@echo "... 51_pointer_specialization.i"
+	@echo "... 51_pointer_specialization.s"
+	@echo "... 52_double_templatization.o"
+	@echo "... 52_double_templatization.i"
+	@echo "... 52_double_templatization.s"
 	@echo "... 5_defensive_programming.o"
 	@echo "... 5_defensive_programming.i"
 	@echo "... 5_defensive_programming.s"

@@ -11,7 +11,7 @@ struct Cube {
     int a;
 };
 
-int main(void) {
+int main_reinterpret_cast(void) {
     int a = 65;
 
     int* ptr1;

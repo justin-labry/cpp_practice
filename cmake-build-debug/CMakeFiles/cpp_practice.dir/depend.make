@@ -112,8 +112,15 @@ CMakeFiles/cpp_practice.dir/48_class_non_data_type_template.cpp.o: ../Cents.h
 CMakeFiles/cpp_practice.dir/48_class_non_data_type_template.cpp.o: ../MyArray.h
 
 CMakeFiles/cpp_practice.dir/49_class_specialization_template.cpp.o: ../49_class_specialization_template.cpp
+CMakeFiles/cpp_practice.dir/49_class_specialization_template.cpp.o: ../Storage8.h
 
 CMakeFiles/cpp_practice.dir/4_recursive_function.cpp.o: ../4_recursive_function.cpp
+
+CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.o: ../50_partial_specialization.cpp
+
+CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.o: ../51_pointer_specialization.cpp
+
+CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.o: ../52_double_templatization.cpp
 
 CMakeFiles/cpp_practice.dir/5_defensive_programming.cpp.o: ../5_defensive_programming.cpp
 

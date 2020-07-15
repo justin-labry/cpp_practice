@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/labry/CLionProjects/cpp_practice/reinterpret_cast.cpp
+/Users/labry/CLionProjects/cpp_practice/51_pointer_specialization.cpp
 iostream
--
-cstdio
 -
 

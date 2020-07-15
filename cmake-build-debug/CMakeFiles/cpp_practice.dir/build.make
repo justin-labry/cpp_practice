@@ -746,6 +746,45 @@ CMakeFiles/cpp_practice.dir/reinterpret_cast.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/reinterpret_cast.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/reinterpret_cast.cpp -o CMakeFiles/cpp_practice.dir/reinterpret_cast.cpp.s
 
+CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.o: ../50_partial_specialization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.o -c /Users/labry/CLionProjects/cpp_practice/50_partial_specialization.cpp
+
+CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/50_partial_specialization.cpp > CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.i
+
+CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/50_partial_specialization.cpp -o CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.s
+
+CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.o: ../51_pointer_specialization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.o -c /Users/labry/CLionProjects/cpp_practice/51_pointer_specialization.cpp
+
+CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/51_pointer_specialization.cpp > CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.i
+
+CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/51_pointer_specialization.cpp -o CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.s
+
+CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.o: CMakeFiles/cpp_practice.dir/flags.make
+CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.o: ../52_double_templatization.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.o -c /Users/labry/CLionProjects/cpp_practice/52_double_templatization.cpp
+
+CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/labry/CLionProjects/cpp_practice/52_double_templatization.cpp > CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.i
+
+CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/labry/CLionProjects/cpp_practice/52_double_templatization.cpp -o CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.s
+
 # Object files for target cpp_practice
 cpp_practice_OBJECTS = \
 "CMakeFiles/cpp_practice.dir/10_encapsulation.cpp.o" \
@@ -800,7 +839,10 @@ cpp_practice_OBJECTS = \
 "CMakeFiles/cpp_practice.dir/48_class_non_data_type_template.cpp.o" \
 "CMakeFiles/cpp_practice.dir/Storage.cpp.o" \
 "CMakeFiles/cpp_practice.dir/49_class_specialization_template.cpp.o" \
-"CMakeFiles/cpp_practice.dir/reinterpret_cast.cpp.o"
+"CMakeFiles/cpp_practice.dir/reinterpret_cast.cpp.o" \
+"CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.o" \
+"CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.o" \
+"CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.o"
 
 # External object files for target cpp_practice
 cpp_practice_EXTERNAL_OBJECTS =
@@ -858,9 +900,12 @@ cpp_practice: CMakeFiles/cpp_practice.dir/48_class_non_data_type_template.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/Storage.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/49_class_specialization_template.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/reinterpret_cast.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/50_partial_specialization.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/51_pointer_specialization.cpp.o
+cpp_practice: CMakeFiles/cpp_practice.dir/52_double_templatization.cpp.o
 cpp_practice: CMakeFiles/cpp_practice.dir/build.make
 cpp_practice: CMakeFiles/cpp_practice.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Linking CXX executable cpp_practice"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/labry/CLionProjects/cpp_practice/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Linking CXX executable cpp_practice"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpp_practice.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
