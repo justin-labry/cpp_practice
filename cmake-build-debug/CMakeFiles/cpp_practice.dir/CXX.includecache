@@ -6,13 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/labry/CLionProjects/cpp_practice/46_function_template.cpp
+/Users/labry/CLionProjects/cpp_practice/reinterpret_cast.cpp
 iostream
 -
-Cents.h
-/Users/labry/CLionProjects/cpp_practice/Cents.h
-
-/Users/labry/CLionProjects/cpp_practice/Cents.h
-iostream
+cstdio
 -
 

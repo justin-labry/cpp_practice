@@ -10,26 +10,26 @@
 #include <random>
 using namespace std;
 
-class Cents {
+class Cents22 {
 private:
     int m_cents;
 
 public:
-    Cents(int cents =  0) {m_cents = cents; }
+    Cents22(int cents =  0) { m_cents = cents; }
     int getCents() const {return m_cents; }
     int& getCents() {return m_cents; }
 
-    Cents operator+(const Cents &c2){
+    Cents22 operator+(const Cents22 &c2){
         return this->getCents() + c2.getCents();
     }
 
-    friend std::ostream& operator << (std::ostream &out, const Cents &cents) {
+    friend std::ostream& operator << (std::ostream &out, const Cents22 &cents) {
         out << cents.m_cents;
         return out;
     }
 
-    Cents operator - () const {
-        return Cents(-m_cents);
+    Cents22 operator - () const {
+        return Cents22(-m_cents);
     }
 
     bool operator ! () const {
@@ -39,26 +39,26 @@ public:
             return false;
     }
 
-    bool operator == (const Cents &c1) {
+    bool operator == (const Cents22 &c1) {
         return (this->m_cents == c1.m_cents);
     }
 
-    bool operator != (const Cents &c1) {
+    bool operator != (const Cents22 &c1) {
         return (this->m_cents != c1.m_cents);
     }
 
-    bool operator > (const Cents &c1) {
+    bool operator > (const Cents22 &c1) {
         return (this->m_cents > c1.m_cents);
     }
 
-    friend bool operator < (const Cents c1, const Cents &c2) {
+    friend bool operator < (const Cents22 c1, const Cents22 &c2) {
         return (c1.m_cents < c2.m_cents);
     }
 
 };
 
 int main_17() {
-    vector<Cents> arr(20);
+    vector<Cents22> arr(20);
 
     for(unsigned i = 0; i < 20; ++i)
         arr[i].getCents() = i;

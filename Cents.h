@@ -11,7 +11,7 @@ private:
     int m_cents;
 
 public:
-    Cents(int cents =  0) {m_cents = cents; }
+    Cents(int cents =  0) { m_cents = cents; }
     int getCents() const {return m_cents; }
     int& getCents() {return m_cents; }
 
@@ -20,6 +20,7 @@ public:
     }
 
     friend std::ostream& operator << (std::ostream &out, const Cents &cents) {
+        //std::cout<< "called" << std::endl;
         out << "Cents(" <<cents.m_cents<<")";
         return out;
     }
